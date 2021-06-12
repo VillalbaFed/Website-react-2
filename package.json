@@ -16,7 +16,7 @@
     "react-scripts": "3.4.3",
     "sass": "^1.26.10",
     "startbootstrap-agency": "^6.0.2",
-    "swiper": "^6.2.0"
+    "swiper": "^6.5.1"
   },
   "scripts": {
     "start": "react-scripts start",
